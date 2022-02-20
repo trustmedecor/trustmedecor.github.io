@@ -1,16 +1,4 @@
 main:
-  - title: "What is it?"
-    url: /what-is-the-doctrine-of-discovery/
-  - title: "Papal Bulls"
-    url: /papal-bulls/
-  - title: "Law"
-    url: /law/
-  - title: "Repudiations"
-    url: /faith-communities/
-  - title: "UN"
-    url: /united-nations/
-  - title: "Podcast"
-    url: https://podcast.trustmedecor.github.io/
   - title: "About"
     url: /about/
   - title: "Posts"
@@ -23,11 +11,5 @@ main:
     url: /tags/
   - title: "Contact"
     url: /Contact/
-  - title: "Bibliography"
-    url: /bibliography/
-  - title: "Online Resources"
-    url: /online-resources/
   - title: "Feed"
     url: /feed.xml
-  - title: "Privacy Policy"
-    url: /privacy-policy/
