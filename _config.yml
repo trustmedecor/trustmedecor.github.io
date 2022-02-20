@@ -14,23 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: en-US
-title: Doctrine of Discovery
+title: Trust Me Decor
 title_separator: "-"
-email: contact@doctrineofdiscovery.org
+email: trustmedecor2020@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they "discovered" and lay claim to those lands for their Christian Monarchs. Any land that was not inhabited by Christians was available to be "discovered", claimed, and exploited."
+  "Trust Me Decor Design Portal"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://doctrineofdiscovery.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: indigenousVI
+url: "https://trustmedecor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: trustmedecor
 #github_username: username
 # Theme
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
+minimal_mistakes_skin: plum
 search: true
 teaser: "/assets/images/onondaga-lake-east-shoreline-1.jpg"
 logo: /assets/images/doctrineofdiscovery_logo_new-88x88.png
 breadcrumbs: true # true, false (default)
-words_per_minute: 200
+words_per_minute: 150
 
 # Analytics
 analytics:
