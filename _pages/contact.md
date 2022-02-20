@@ -8,4 +8,3 @@ suggestedcitiation: false
 ---
 
 - **Email:** [contact@trustmedecor.github.io](mailto:trustmedecor2020@gmail.com)
-- **Web:** [trustmedecor.github.io](https://trustmedecor.github.io)
