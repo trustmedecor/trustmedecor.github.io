@@ -7,5 +7,5 @@ redirect_from: /table/
 suggestedcitiation: false
 ---
 
-- **Email:** [contact@doctrineofdiscovery.org](mailto:contact@doctrineofdiscovery.org)
-- **Web:** [doctrineofdiscovery.org](https://doctrineofdiscovery.org)
+- **Email:** [contact@trustmedecor.github.io](mailto:trustmedecor2020@gmail.com)
+- **Web:** [trustmedecor.github.io](https://trustmedecor.github.io)

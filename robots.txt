@@ -1,7 +1,7 @@
-# doctrineofdiscovery.org/
+# trustmedecor.github.io/
 
 # Allow crawling of all content
 User-agent: *
 Disallow:
 
-Sitemap: http://doctrineofdiscovery.org/sitemap.xml
+Sitemap: http://trustmedecor.github.io/sitemap.xml
