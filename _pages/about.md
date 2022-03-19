@@ -9,4 +9,4 @@ permalink: /about/
 
 ## Overview
 
-Trust Me Decor About Page
+Hey Friends, Welcome to my Business website Trust Me Decor
